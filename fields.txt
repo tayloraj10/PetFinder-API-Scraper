@@ -1,0 +1,18 @@
+SHELTER
+address1 - $t
+city - $t
+email - $t
+id - $t
+latitude - $t
+longitude - $t
+name - $t
+phone - $t
+state - $t
+zip - $t
+
+
+
+PET
+age
+breeds - breed
+contact
